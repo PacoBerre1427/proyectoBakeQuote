@@ -1,2 +1,2 @@
-#Proyecto móvil: Bake &m; Quote
+#Proyecto móvil: Bake & Quote
 ##SAÚL ALBERTO BERRELLEZA PACO, EDGAR JOSUE CHAVARRIA NAVARRO
