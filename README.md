@@ -5,5 +5,5 @@
 ##Actualizaciones 24/09/2025
 * Se agregaron iconos para los campos de texto y el logo de la aplicación.
 * Se agregaron colores pastel para los fondos (rosa y amarillo), el color secundario fue usado para el fondo de la segunda vista.
-* Se modifico la clase "SecondActivty" agregandole un componente "NavigationView" para poder tener un menu despegable para poder navegar por las pantallas de la aplicacion
-* Se creo una clase "menu_navigation", en el cual agregamos los distintos tipos de opciones del menu despegable
+* Se modificó la clase "SecondActivity" agregandole un componente "NavigationView" para poder tener un menu despegable para poder navegar por las pantallas de la aplicación.
+* Se creó una clase "menu_navigation", en el cual se agregaron los distintos tipos de opciones del menu despegable.
