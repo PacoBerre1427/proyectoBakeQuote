@@ -9,4 +9,5 @@
 * Se creó una clase "menu_navigation", en el cual se agregaron los distintos tipos de opciones del menu despegable
 ## Actualizaciones 25/09/25
 * Se agregaron 4 nuevas views las cuales corresponden a las pantallas de las distintas funcionalidades que contiene la aplicacion.
-* Se agrego el evento a las opciones del NavigationView para que al dar click muestre la view correspondiente.
+* Se agregó el evento a las opciones del NavigationView para que al dar click muestre la view correspondiente.
+* Hubo modificaciones en el MainActivity, las cuales consisten en un inicio de sesión básico, donde si los datos son incorrectos menciona cual fue el causante, de lo contrario, pasa a la siguiente vista.
