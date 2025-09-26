@@ -2,18 +2,25 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/nav_home"
-        android:title="Inicio"></item>
+        android:id="@+id/nav_cotizar"
+        android:title="Cotizar">
+    </item>
 
 
     <item
-        android:id="@+id/nav_settings"
-        android:title="Configuración"></item>
+        android:id="@+id/nav_inventario"
+        android:title="Inventario">
+    </item>
 
 
     <item
-        android:id="@+id/nav_logout"
-        android:title="Salir"></item>
+        android:id="@+id/nav_agendar"
+        android:title="Agendar">
+    </item>
 
+    <item
+        android:id="@+id/nav_cotizaciones"
+        android:title="Cotizaciones">
+    </item>
 
 </menu>
